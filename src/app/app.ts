@@ -21,6 +21,7 @@ angular
     ])
     .component('mainComponent', mainComponent)
     .directive('exampleComponent', downgradeComponent({ component: ExampleComponent })) // Use Modern Angular Component in AngularJS
+
 angular.element(() => {
     angular.bootstrap(document.body, ['myApp']);
 });
