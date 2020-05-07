@@ -1,4 +1,6 @@
 class MainController {
+    public title: string;
+    
     constructor() {
 
     }
