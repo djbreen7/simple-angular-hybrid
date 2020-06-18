@@ -18,7 +18,7 @@
     "@angular/upgrade": "^9.1.4",
     "@webcomponents/custom-elements": "^1.4.1",
     "@webcomponents/shadydom": "^1.7.3",
-    "angular": "^1.7.9",
+    "angular": "^1.8.0",
     "core-js": "^3.6.5",
     "rxjs": "^6.5.5",
     "web-animations-js": "^2.3.2",
